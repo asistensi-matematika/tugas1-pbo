@@ -8,6 +8,10 @@ NRP: `isi nrp disini`
 Membuat sebuah script untuk print tabel multiplikasi
 
 ### output yang diharapkan
+
+Input argumen boleh menggunakan input user (menggunakan `Scanner`) atau di hard code.
+
+---
 input
 ```java
 printTM(5)
@@ -25,6 +29,7 @@ output
 5 x 9  = 45
 5 x 10  = 50
 ```
+---
 input
 ```java
 printTM(0)
@@ -33,6 +38,7 @@ output
 ```
 0
 ```
+---
 input
 ```java
 printTM("a")
@@ -41,9 +47,6 @@ output
 ```
 input tidak boleh huruf
 ```
-
-Input argumen boleh menggunakan input user (menggunakan Scanner) atau dengan hard code.
-
 ## screenshot hasil
 `masukkan screenshot output disini`
 
