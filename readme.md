@@ -1,7 +1,7 @@
-# TUGAS 2 ASISTENSI PBO - Jumat, 20 September 2019
-NAMA:
+# TUGAS 1 ASISTENSI PBO - Jumat, 20 September 2019
+NAMA: `isi nama disini`
 
-NRP:
+NRP: `isi nrp disini`
 
 
 ## DESKRIPSI SOAL
@@ -43,5 +43,9 @@ input tidak boleh huruf
 ```
 
 Input argumen boleh menggunakan input user (menggunakan Scanner) atau dengan hard code.
+
+## screenshot hasil
+`masukkan screenshot output disini`
+
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini, dengan nama folder `NAMA_NRP`
